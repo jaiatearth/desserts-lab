@@ -1,0 +1,42 @@
+@import "../../styles/colors.css";
+
+.header {
+  display: flex;
+  align-items: center;
+  padding: 15px 0px;
+
+  a {
+    width: 40%;
+    float: left;
+    margin-left: 20px;
+    display: block;
+  }
+
+  &__icon {
+    .desserts-lab-icon {
+      background-image: url("../../../public/logo192.png");
+      background-size: 60px 60px;
+      display: inline-block;
+      height: 60px;
+      width: 60px;
+      background-repeat: no-repeat;
+      margin-left: 20px;
+      top: 6px;
+      position: relative;
+    }
+  }
+
+  &__info {
+    width: 60%;
+    font-family: "Parisienne";
+    font-size: 30px;
+    font-weight: semi-bold;
+    background: var(--color-primary);
+    padding: 15px 0px;
+
+    .label {
+      margin-left: 40px;
+      text-transform: capitalize;
+    }
+  }
+}
