@@ -38,6 +38,7 @@ class AddItem extends React.Component {
     for (let i = 0; i < keys.length && i < values.length; i++) {
       dessertObject[keys[i]] = values[i];
     }
+    items = items || [];
     items.push(dessertObject);
     localStorage.setItem("items", JSON.stringify(items));
 
