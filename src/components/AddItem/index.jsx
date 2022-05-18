@@ -20,7 +20,7 @@ class AddItem extends React.Component {
   // Submit new dessert
   submitItem = (event) => {
     event.preventDefault();
-    let items;
+    let items = [];
     let dessertObject = {};
     let itemsStored = JSON.parse(localStorage.getItem("items"));
     const form = document.getElementById("add-item-form");
