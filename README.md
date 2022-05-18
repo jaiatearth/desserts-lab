@@ -15,3 +15,7 @@ npm start
 ```sh
 npm run deploy
 ```
+
+
+# Landing Page
+![Landing-page](https://github.com/jaiatearth/desserts-lab/blob/main/public/app.png)
