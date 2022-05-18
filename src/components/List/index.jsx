@@ -39,9 +39,7 @@ const List = () => {
           <div className="widget__title">{label.all_desserts_label}</div>
           <div className="widget__content">
             {dessertItems.length === 0 && (
-              <Link to="/desserts-lab/add-item">
-                Oh List is Empty, Add new dessert
-              </Link>
+              <Link to="/desserts-lab/add-item">{label.info_empty_item}</Link>
             )}
             {dessertItems &&
               dessertItems.map((item) => (

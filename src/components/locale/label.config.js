@@ -9,4 +9,5 @@ export default {
   dessert_price: "dessert price",
   success_message: "new Dessert Submitted Sucessfully!!",
   all_desserts_label: "list of all desserts",
+  info_empty_item: "Oh List is Empty, Add new dessert",
 };
