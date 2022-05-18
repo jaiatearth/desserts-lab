@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/desserts-lab/static/css/main.1b9c48c5.css",
-    "main.js": "/desserts-lab/static/js/main.dfe0dced.js",
+    "main.js": "/desserts-lab/static/js/main.f01d1be4.js",
     "static/media/bg.jpg": "/desserts-lab/static/media/bg.ac047df4a5b123a6fe46.jpg",
     "static/media/2.png": "/desserts-lab/static/media/2.bcf7058d74284225127e.png",
     "static/media/5.png": "/desserts-lab/static/media/5.442e41c55877e86b72f6.png",
@@ -13,10 +13,10 @@
     "static/media/4.png": "/desserts-lab/static/media/4.977df5b89dd4cbecc956.png",
     "index.html": "/desserts-lab/index.html",
     "main.1b9c48c5.css.map": "/desserts-lab/static/css/main.1b9c48c5.css.map",
-    "main.dfe0dced.js.map": "/desserts-lab/static/js/main.dfe0dced.js.map"
+    "main.f01d1be4.js.map": "/desserts-lab/static/js/main.f01d1be4.js.map"
   },
   "entrypoints": [
     "static/css/main.1b9c48c5.css",
-    "static/js/main.dfe0dced.js"
+    "static/js/main.f01d1be4.js"
   ]
 }
