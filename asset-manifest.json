@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "/desserts-lab/static/css/main.5adb7a42.css",
-    "main.js": "/desserts-lab/static/js/main.18000034.js",
-    "static/js/988.95101adc.chunk.js": "/desserts-lab/static/js/988.95101adc.chunk.js",
+    "main.css": "/desserts-lab/static/css/main.1b9c48c5.css",
+    "main.js": "/desserts-lab/static/js/main.d66625ce.js",
     "static/media/bg.jpg": "/desserts-lab/static/media/bg.ac047df4a5b123a6fe46.jpg",
+    "static/media/2.png": "/desserts-lab/static/media/2.bcf7058d74284225127e.png",
+    "static/media/5.png": "/desserts-lab/static/media/5.442e41c55877e86b72f6.png",
+    "static/media/3.png": "/desserts-lab/static/media/3.f5cb5dfdc7f48ec40193.png",
+    "static/media/6.png": "/desserts-lab/static/media/6.f5feac7d42a600d9602d.png",
+    "static/media/7.png": "/desserts-lab/static/media/7.5b4a687866bf03e85a38.png",
+    "static/media/1.png": "/desserts-lab/static/media/1.778966e7965163d6321c.png",
     "static/media/logo192.png": "/desserts-lab/static/media/logo192.518d523d5316e6749d1a.png",
+    "static/media/4.png": "/desserts-lab/static/media/4.977df5b89dd4cbecc956.png",
     "index.html": "/desserts-lab/index.html",
-    "main.5adb7a42.css.map": "/desserts-lab/static/css/main.5adb7a42.css.map",
-    "main.18000034.js.map": "/desserts-lab/static/js/main.18000034.js.map",
-    "988.95101adc.chunk.js.map": "/desserts-lab/static/js/988.95101adc.chunk.js.map"
+    "main.1b9c48c5.css.map": "/desserts-lab/static/css/main.1b9c48c5.css.map",
+    "main.d66625ce.js.map": "/desserts-lab/static/js/main.d66625ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.5adb7a42.css",
-    "static/js/main.18000034.js"
+    "static/css/main.1b9c48c5.css",
+    "static/js/main.d66625ce.js"
   ]
 }
