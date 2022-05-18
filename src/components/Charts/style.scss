@@ -1,0 +1,24 @@
+.chart-container {
+  background-image: url("../../../public/bg.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  .content {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 50px;
+    .recharts-wrapper {
+      width: 900px !important;
+      svg {
+        width: inherit;
+      }
+    }
+  }
+}
+@media only screen and (min-width: 320px) and (max-width: 768px) {
+  .chart-container .content .widget {
+    width: 70%;
+    height: 65vh;
+  }
+}

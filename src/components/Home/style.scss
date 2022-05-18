@@ -7,37 +7,6 @@
   background-repeat: no-repeat;
   background-size: cover;
 
-  .header {
-    display: flex;
-    align-items: center;
-    padding: 15px 0px;
-
-    &__icon {
-      width: 40%;
-      float: left;
-      margin-left: 20px;
-      .desserts-lab-icon {
-        background-image: url("../../../public/logo192.png");
-        background-size: 60px 60px;
-        display: inline-block;
-        height: 60px;
-        width: 60px;
-        background-repeat: no-repeat;
-        margin-left: 20px;
-        top: 6px;
-        position: relative;
-      }
-    }
-    &__info {
-      width: 60%;
-      font-family: "Parisienne";
-      font-size: 30px;
-      font-weight: semi-bold;
-      background: var(--color-primary);
-      padding: 15px 0px;
-    }
-  }
-
   .content {
     margin-top: 100px;
     margin-left: 20px;
@@ -70,7 +39,7 @@
 }
 
 @media only screen and (min-width: 320px) and (max-width: 768px) {
-  .content {
+  .home-container .content {
     display: flex;
     justify-content: center;
     margin-left: 0;

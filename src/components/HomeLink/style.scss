@@ -1,0 +1,10 @@
+@import "../../styles/colors.css";
+
+.home-link-container a {
+  font-family: "Open Sans";
+  font-size: 12px;
+  color: var(--color-black);
+  text-transform: capitalize;
+  margin-left: 32px;
+  position: fixed;
+}

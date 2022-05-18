@@ -13,11 +13,13 @@ export default function Home() {
         <nav>
           <ul>
             <li>
-              <Link to="/desserts-lab/list">{label.all_dessert}</Link>
-            </li>
-            <li>
               <Link to="/desserts-lab/add-item">{label.add_new}</Link>
             </li>
+
+            <li>
+              <Link to="/desserts-lab/list">{label.all_dessert}</Link>
+            </li>
+
             <li>
               <Link to="/desserts-lab/chart">{label.chart}</Link>
             </li>
